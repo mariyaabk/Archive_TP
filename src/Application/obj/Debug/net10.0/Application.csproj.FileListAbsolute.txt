@@ -13,3 +13,4 @@ C:\Archive\Archive_TP\src\Application\obj\Debug\net10.0\Application.dll
 C:\Archive\Archive_TP\src\Application\obj\Debug\net10.0\refint\Application.dll
 C:\Archive\Archive_TP\src\Application\obj\Debug\net10.0\Application.pdb
 C:\Archive\Archive_TP\src\Application\obj\Debug\net10.0\ref\Application.dll
+C:\Archive\Archive_TP\src\Application\obj\Debug\net10.0\Application.sourcelink.json
