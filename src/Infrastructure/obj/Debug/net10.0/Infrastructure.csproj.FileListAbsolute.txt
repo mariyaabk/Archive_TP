@@ -1,0 +1,17 @@
+C:\Archive\Archive_TP\src\Infrastructure\bin\Debug\net10.0\Infrastructure.deps.json
+C:\Archive\Archive_TP\src\Infrastructure\bin\Debug\net10.0\Infrastructure.dll
+C:\Archive\Archive_TP\src\Infrastructure\bin\Debug\net10.0\Infrastructure.pdb
+C:\Archive\Archive_TP\src\Infrastructure\bin\Debug\net10.0\Application.dll
+C:\Archive\Archive_TP\src\Infrastructure\bin\Debug\net10.0\Domain.dll
+C:\Archive\Archive_TP\src\Infrastructure\bin\Debug\net10.0\Domain.pdb
+C:\Archive\Archive_TP\src\Infrastructure\bin\Debug\net10.0\Application.pdb
+C:\Archive\Archive_TP\src\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Archive\Archive_TP\src\Infrastructure\obj\Debug\net10.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Archive\Archive_TP\src\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Archive\Archive_TP\src\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfo.cs
+C:\Archive\Archive_TP\src\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Archive\Archive_TP\src\Infrastructure\obj\Debug\net10.0\Infrastr.15EFFBFE.Up2Date
+C:\Archive\Archive_TP\src\Infrastructure\obj\Debug\net10.0\Infrastructure.dll
+C:\Archive\Archive_TP\src\Infrastructure\obj\Debug\net10.0\refint\Infrastructure.dll
+C:\Archive\Archive_TP\src\Infrastructure\obj\Debug\net10.0\Infrastructure.pdb
+C:\Archive\Archive_TP\src\Infrastructure\obj\Debug\net10.0\ref\Infrastructure.dll
