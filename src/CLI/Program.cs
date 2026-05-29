@@ -1,9 +1,13 @@
+using CombatTP.Application.Actions;
 using CombatTP.Application.Factories;
-using Domain.Enums;    
+using Domain.Entites;
+using Domain.Enums;
 using CombatTP.Infrastructure.UI;
+
 var renderer = new ConsoleRenderer();
 var input = new ConsoleInputHandler();
 var heroFactory = new HeroFactory();
+var enemyFactory = new EnemyFactory();
 
 renderer.AfficherTitre();
 
@@ -23,3 +27,9 @@ var classe = choixClasse switch
 
 var heros = heroFactory.Creer(nom, classe);
 renderer.AfficherConfirmationHeros(heros.Nom, heros.Classe);
+
+// test strategy
+var ennemi = enemyFactory.Creer("GoblinFaible");
+var attaque = new AttaqueBasiqueAction();
+var result = attaque.Executer(heros, new List<Ennemi> { ennemi });
+System.Console.WriteLine(result.Message);
